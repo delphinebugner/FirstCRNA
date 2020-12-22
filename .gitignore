@@ -1,0 +1,46 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# BUCK
+buck-out/
+\.buckd/
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+/ios/Pods
+
+# JEST
+.jest/
+coverage/
+reports/
+.scannerwork
+
+/dist
+*.back
+
+# ESLint
+.eslintcache
+
+# TypeScript
+*.tsbuildinfo
