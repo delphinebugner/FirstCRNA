@@ -44,3 +44,6 @@ reports/
 
 # TypeScript
 *.tsbuildinfo
+
+# API Key
+.env.development
